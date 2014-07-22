@@ -1,0 +1,4 @@
+threatstack
+===========
+
+Threatstack Chef Cookbook
